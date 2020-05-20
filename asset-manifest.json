@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/scrimba-react-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/scrimba-react-app/static/js/main.03101165.chunk.js",
-    "main.js.map": "/scrimba-react-app/static/js/main.03101165.chunk.js.map",
+    "main.css": "/scrimba-react-app/static/css/main.b7f9c786.chunk.css",
+    "main.js": "/scrimba-react-app/static/js/main.2fc734e9.chunk.js",
+    "main.js.map": "/scrimba-react-app/static/js/main.2fc734e9.chunk.js.map",
     "runtime-main.js": "/scrimba-react-app/static/js/runtime-main.383c1076.js",
     "runtime-main.js.map": "/scrimba-react-app/static/js/runtime-main.383c1076.js.map",
-    "static/js/2.0280aad1.chunk.js": "/scrimba-react-app/static/js/2.0280aad1.chunk.js",
-    "static/js/2.0280aad1.chunk.js.map": "/scrimba-react-app/static/js/2.0280aad1.chunk.js.map",
+    "static/js/2.c3ff5aac.chunk.js": "/scrimba-react-app/static/js/2.c3ff5aac.chunk.js",
+    "static/js/2.c3ff5aac.chunk.js.map": "/scrimba-react-app/static/js/2.c3ff5aac.chunk.js.map",
     "index.html": "/scrimba-react-app/index.html",
-    "precache-manifest.48e148e1b9ac768fa5f2ba717c05fc4e.js": "/scrimba-react-app/precache-manifest.48e148e1b9ac768fa5f2ba717c05fc4e.js",
+    "precache-manifest.977bd2fcc7e37a4ad6e80cc37f38a17e.js": "/scrimba-react-app/precache-manifest.977bd2fcc7e37a4ad6e80cc37f38a17e.js",
     "service-worker.js": "/scrimba-react-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/scrimba-react-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0280aad1.chunk.js.LICENSE.txt": "/scrimba-react-app/static/js/2.0280aad1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/scrimba-react-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.b7f9c786.chunk.css.map": "/scrimba-react-app/static/css/main.b7f9c786.chunk.css.map",
+    "static/js/2.c3ff5aac.chunk.js.LICENSE.txt": "/scrimba-react-app/static/js/2.c3ff5aac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.383c1076.js",
-    "static/js/2.0280aad1.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.03101165.chunk.js"
+    "static/js/2.c3ff5aac.chunk.js",
+    "static/css/main.b7f9c786.chunk.css",
+    "static/js/main.2fc734e9.chunk.js"
   ]
 }
